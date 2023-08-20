@@ -1,0 +1,16 @@
+.titulo__principal {
+  font-family: var(--font-Ubuntu);
+  font-size: var(--txt-large);
+}
+
+.txt__small {
+  font-family: var(--font-Ubuntu);
+  font-size: var(--txt-large);
+  font-weight: 300;
+}
+
+.txt__medium {
+  font-family: var(--font-Ubuntu);
+  font-size: var(--txt-large);
+  font-weight: 700;
+}
