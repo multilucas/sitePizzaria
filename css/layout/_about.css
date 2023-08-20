@@ -1,0 +1,18 @@
+.about {
+  margin: 25px;
+  background: #eceff3;
+  font-size: 15px;
+  line-height: 1.4em;
+  padding: 25px;
+  text-align: center;
+  /* Center the text horizontally */
+}
+
+.about h3 {
+  font-size: 25px;
+}
+
+.about p {
+  line-height: 1.25;
+  margin: 0 0 1.5em;
+}
